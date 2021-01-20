@@ -1,0 +1,2 @@
+# mamai
+for chrome
